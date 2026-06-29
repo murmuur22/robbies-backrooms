@@ -1,0 +1,17 @@
+{
+	id: "96cd2523-932b-4f34-a36d-29cd9884d6ed"
+	type: "player"
+	player_name: "murmuur_"
+	ranks: {
+		96cd2523-932b-4f34-a36d-29cd9884d6ed: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "murmuur_"
+		"ftbteams:description": ""
+		"ftbteams:color": "#A559FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

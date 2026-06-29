@@ -1,0 +1,56 @@
+{
+  "bookGuiScale": 0,
+  "clickedVisualize": false,
+  "bookData": {
+    "botania:lexicon": {
+      "viewedEntries": [
+        "botania:basics/welcome",
+        "botania:basics/flowers",
+        "botania:devices/fel_pumpkin",
+        "botania:ender/ender_eye_block",
+        "botania:misc/dispenser_tweaks",
+        "botania:basics/black_lotus",
+        "botania:basics/lexicon",
+        "botania:baubles/item_finder",
+        "botania:misc/banners",
+        "botania:ender/ender_air",
+        "botania:misc/pavement",
+        "botania:misc/azulejo",
+        "botania:baubles/intro",
+        "botania:misc/preventing_decay",
+        "botania:tools/overgrowth_seed",
+        "botania:misc/blaze_block",
+        "botania:misc/cacophonium",
+        "botania:basics/pure_daisy",
+        "botania:basics/rune_altar",
+        "botania:generating_flowers/endoflame",
+        "botania:basics/wand",
+        "botania:basics/flower_bag",
+        "botania:basics/apothecary",
+        "botania:mana/spreader",
+        "botania:mana/pool"
+      ],
+      "bookmarks": [],
+      "completedManualQuests": []
+    },
+    "patchouli:summoning": {
+      "viewedEntries": [
+        "patchouli:summonings/rabbit",
+        "patchouli:summonings/zombie",
+        "patchouli:summonings/cod",
+        "patchouli:summonings/wraith",
+        "patchouli:summonings/skeleton",
+        "patchouli:summonings/chicken",
+        "patchouli:summonings/bee",
+        "patchouli:summonings/cow",
+        "patchouli:summonings/blaze",
+        "patchouli:summonings/wither_skeleton",
+        "patchouli:summonings/zombie_brute",
+        "patchouli:summonings/witch",
+        "patchouli:summonings/enderman"
+      ],
+      "bookmarks": [],
+      "completedManualQuests": []
+    }
+  }
+}
