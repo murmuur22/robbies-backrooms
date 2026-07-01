@@ -17200,5 +17200,23 @@
     },
     "done": true
   },
+  "createdeco:recipes/decorations/zinc_hull": {
+    "criteria": {
+      "has_item": "2026-06-29 19:28:28 -0400"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_cooking_pot": {
+    "criteria": {
+      "cooking_pot": "2026-06-29 18:29:05 -0400"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/zinc_hull_from_stonecutting": {
+    "criteria": {
+      "has_item": "2026-06-29 19:28:28 -0400"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

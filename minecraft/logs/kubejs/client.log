@@ -1,19 +1,19 @@
-[09:02:28] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
-[09:02:28] [INIT] Loaded plugins:
-[09:02:28] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
-[09:02:28] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
-[09:02:28] [INIT] - com.almostreliable.kubeio.kube.KubePlugin
-[09:02:28] [INIT] - io.github.mortuusars.exposure.integration.kubejs.ExposureJSPlugin
-[09:02:28] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbquests.kubejs.KubeJSIntegration
-[09:02:28] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbteams.kubejs.FTBTeamsKubeJSPlugin
-[09:02:28] [INIT] - com.sunekaer.sdrp.integration.kubejs.SDRPKubeJSIntegration
-[09:02:28] [INIT] - dev.latvian.mods.kubejs.thermal.KubeJSThermalPlugin
-[09:02:28] [INIT] - dev.latvian.mods.kubejs.create.KubeJSCreatePlugin
-[09:02:28] [INIT] - dev.latvian.kubejs.mekanism.MekanismKubeJSPlugin
-[09:02:28] [INIT] - qinomed.kubejsdelight.KubeJSDelightPlugin
-[09:02:28] [INIT] - com.almostreliable.lootjs.kube.LootJSPlugin
-[09:02:28] [INIT] - com.prunoideae.KubeJSBotaniaPlugin
-[09:02:28] [INIT] - snownee.lychee.compat.kubejs.LycheeKubeJSPlugin
-[09:02:28] [INFO] Loaded script client_scripts:jei_hide.js in 0.0 s
-[09:02:28] [INFO] Loaded 1/1 KubeJS client scripts in 0.013 s with 0 errors and 0 warnings
-[09:02:32] [INFO] Client resource reload complete!
+[18:13:45] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
+[18:13:45] [INIT] Loaded plugins:
+[18:13:45] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[18:13:45] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
+[18:13:45] [INIT] - com.almostreliable.kubeio.kube.KubePlugin
+[18:13:45] [INIT] - io.github.mortuusars.exposure.integration.kubejs.ExposureJSPlugin
+[18:13:45] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbquests.kubejs.KubeJSIntegration
+[18:13:45] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbteams.kubejs.FTBTeamsKubeJSPlugin
+[18:13:45] [INIT] - com.sunekaer.sdrp.integration.kubejs.SDRPKubeJSIntegration
+[18:13:45] [INIT] - dev.latvian.mods.kubejs.thermal.KubeJSThermalPlugin
+[18:13:45] [INIT] - dev.latvian.mods.kubejs.create.KubeJSCreatePlugin
+[18:13:45] [INIT] - dev.latvian.kubejs.mekanism.MekanismKubeJSPlugin
+[18:13:45] [INIT] - qinomed.kubejsdelight.KubeJSDelightPlugin
+[18:13:45] [INIT] - com.almostreliable.lootjs.kube.LootJSPlugin
+[18:13:45] [INIT] - com.prunoideae.KubeJSBotaniaPlugin
+[18:13:45] [INIT] - snownee.lychee.compat.kubejs.LycheeKubeJSPlugin
+[18:13:45] [INFO] Loaded script client_scripts:jei_hide.js in 0.001 s
+[18:13:45] [INFO] Loaded 1/1 KubeJS client scripts in 0.013 s with 0 errors and 0 warnings
+[18:13:50] [INFO] Client resource reload complete!
